@@ -1,0 +1,493 @@
+'Black-eye'	n3596	pickpocket		Triangle sandwich~Always
+'Gummy'	n3598	pickpocket		Triangle sandwich~Always
+'No fingers'	n3597	pickpocket		Builder's boots~Always|Triangle sandwich~Always
+'The Guns'	n3599	pickpocket		Triangle sandwich~Always
+Achey Tree	o2023	chop		Achey tree logs~Common
+Adala	n13820,n13821,n13822,n13823	pickpocket	Thieving:34	Wine labels~Always
+Adamantite rocks	o11374,o11375,o36208	mine	Mining:70	Adamantite ore~Always|Unidentified minerals~1/30|Clue geode (beginner)~1/48|Crystal shard~1/65|Loop half of key (moon key)~1/395|Clue geode (easy)~1/415|Clue geode (medium)~1/488|Clue geode (hard)~1/806
+Agnar	n3937,n9273	pickpocket	Thieving:45	Coins~Always
+Al Kharid warrior		search	Thieving:25	Coins~Always|Rocky~1/256,586
+Amalgamation	o49912,o49913,o49914,o49915,o49916,o49917	mine	Mining:64	Tainted essence chunk~Always
+Amethyst crystals	o11388,o11389,o11393	mine	Mining:92	Amethyst~Always|Unidentified minerals~1/20|Clue geode (beginner)~Uncommon|Clue geode (easy)~Rare|Clue geode (hard)~Rare|Clue geode (medium)~Rare|Clue geode (elite)~Very rare|Uncut sapphire~32/32,768
+Ancient essence crystals	o46701,o46702	mine	Mining:75	Ancient essence~Always|Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Uncut diamond~2/32,768
+Anja		search		Coins~Always
+Arctic pine tree	o3037	chop	Woodcutting:54	Arctic pine logs~Always
+Ascension rocks	o63266,o63267,o63268,o63269,o63270,o63271	mine	Mining:80	Ascension shards~Common|Uncut diamond~Rare|Uncut emerald~Rare|Uncut ruby~Rare|Uncut sapphire~Rare
+Ash pile	o30985,o30986	mine	Mining:22	Volcanic ash~19/20|Soda ash~1/20|Clue geode (beginner)~1/865|Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Clue geode (easy)~1/7,354|Clue geode (medium)~1/8,651
+Asyn remains		from	Firemaking:65	Silver key red~35/127.85|Silver key brown~30/127.85|Coins~21/100|Black key crimson~20/127.85|Black key black~10/127.85|Black key purple~6/127.85
+Baby impling		catch	Hunter:17	Anchovies~1/10|Ball of wool~1/10|Cheese~1/10|Chisel~1/10|Hammer~1/10|Knife~1/10|Needle~1/10|Thread~1/10
+Bakery stall	o11730,o51937,o6163,o6945	steal from	Thieving:5	Cake~13/20|Bread~5/20|Chocolate slice~2/20|Rocky~1/123,941
+Bandit (Bandit Camp)		search	Thieving:53	Coins~5/7|Antipoison(1)~1/7|Lockpick~1/7|Rocky~1/255,886
+Bandit (Pollnivneach)		search	Thieving:45	Coins~Always|Rocky~1/255,836
+Barb-tailed kebbit	n1348	catch	Hunter:33	Barb-tail harpoon~Always|Bones~Always|Raw barb-tailed kebbit~Always|Kebbity tuft~1/15
+Barracuda salvage		sort	Sailing:35	Oak logs~5,000/28,401|Swamp paste~5,000/28,401|Teak logs~3,750/28,401|Rum~2,500/28,401|Steel nails~2,500/28,401|Teak repair kit~2,500/28,401|Banana~1,250/28,401|Oak plank~1,250/28,401
+Barracuda shipwreck	o60468,o60469	salvage	Sailing:35	Barracuda salvage~Always
+Barronite deposit		from	Smithing:14	Barronite shards~12/13|Barronite head~1/200|Imcando hammer (broken)~1/300|Ancient astroscope~1/350|Ancient carcanet~1/350|Ancient globe~1/350|Ancient ledger~1/350|Ancient treatise~1/350
+Barronite rocks	o41547,o41548,o41549,o41550	mine	Mining:14	Barronite shards~76/100|Barronite deposit~24/100|Clue geode (beginner)~1/910|Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Clue geode (easy)~1/7,741|Clue geode (medium)~1/9,107
+Basalt rocks (mining)	o33257	mine	Mining:72	Basalt~Common
+Berry		search	Thieving:30	Cell key 2~Always
+Birdhouse	o30553,o30554,o30555	check	Hunter:5	Clockwork~Always|Feather~Always|Raw bird meat~Always|Bird nest (empty)~65/100|Bird nest (ring)~32/100|Bird nest (egg)#Blue egg~1/100|Bird nest (egg)#Green egg~1/100|Bird nest (egg)#Red egg~1/100
+Black chinchompa		catch	Hunter:73	Black chinchompa~Always|Baby chinchompa~Very rare
+Black salamander	n2905	catch	Hunter:67	Black salamander~Always
+Black warlock	n5553	catch	Hunter:45	Black warlock (item)~Always|Black butterfly wing~1/40
+Blisterwood tree	o37989	chop	Woodcutting:62	Blisterwood logs~Always
+Bloodwood tree	o40798,o40799,o40800	chop	Woodcutting:77	Bucket of bloodwood sap~Always|Beaver~1/967,358
+Blue crab	n15090	catch	Hunter:48	Blue crab~Always
+Bluefin shoal	o59738	fish at	Fishing:87	Raw bluefin~Always|Purplefin~1/6,000|Angler's paint~1/18,000
+Blurite rocks	o11378,o11379	mine	Mining:10	Blurite ore~Always|Clue geode (beginner)~1/943|Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Clue geode (easy)~1/8,022|Clue geode (medium)~1/9,438|Clue geode (hard)~1/15,573
+Boat fishing spot (Piscatoris Fishing Colony)	n16343	fish at	Fishing:35	Raw monkfish~Always|Raw swordfish~Common|Raw tuna~Common|Clue bottle (beginner)~1/119|Big swordfish~Very rare|Clue bottle (easy)~1/1,017|Clue bottle (medium)~1/1,197|Clue bottle (hard)~1/1,976
+Boat fishing spot (anglerfish)	n16342	fish at	Fishing:82	Raw anglerfish~Always
+Boat fishing spot (big net, harpoon)	n16339	fish at	Fishing:16	Raw shark~4,999/5,000|Raw bass~Common|Raw cod~Common|Raw mackerel~Common|Leather boots~Uncommon|Leather gloves~Uncommon|Oyster~Uncommon|Seaweed~Uncommon
+Boat fishing spot (karambwan)	n16341	fish at	Fishing:65	Raw karambwan~Always
+Boat fishing spot (small net, bait)	n16338	fish at		Raw anchovies~Common|Raw herring~Common|Raw sardine~Common|Raw shrimps~Common|Clue bottle (beginner)~1/1,206|Clue bottle (easy)~1/10,254|Clue bottle (medium)~1/12,063|Clue bottle (hard)~1/19,905
+Borrokar		search	Thieving:45	Coins~Always
+Boulder (Shaman Caves)	o2919,o2920,o2921,o2972,o2973,o2974	mine	Mining:52	Rock (elemental)~Always
+Boulder (Volcanic Mine)	o31034,o31035,o31036,o31037,o31038	mine	Mining:50	Numulite~45/194.44|Calcite~1/20|Pyrophosphite~1/20|Unidentified small fossil~5/388.89|Unidentified medium fossil~5/777.78|Unidentified large fossil~5/972.22|Unidentified rare fossil~5/3,888.89|Rock golem~1/58,000
+Bounty tasks		do		Shark paint~1/36
+Broken armour		from		Iron platelegs~57/200|Iron plateskirt~57/200|Bronze platelegs~24/200|Bronze plateskirt~24/200|Steel platelegs~10/200|Steel plateskirt~10/200|Black platelegs~5/200|Black plateskirt~5/200
+Bubbles	o29889	fish at		Raw brawk fish (3)~Common|Raw kyren fish (6)~Common|Raw leckish fish (2)~Common|Raw mycil fish (4)~Common|Raw pysk fish (0)~Common|Raw roqed fish (5)~Common|Raw suphi fish (1)~Common
+Burnt tree	o30852,o30853,o30854	chop		Charcoal~Always
+Calcified deposit		from		Blessed bone shards~3/4|Calcified moth~1/4
+Calcified rocks	o51485,o51487,o51489,o51491	mine	Mining:41	Blessed bone shards~74/75|Calcified deposit~1/75|Clue geode (beginner)~1/736|Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Loop half of key (moon key)~1/4,944|Clue geode (easy)~1/6,258
+Camphor tree	o58557,o58558	chop	Woodcutting:66	Camphor logs~Always|Beaver~1/143,000
+Camphor tree	o58712,o58713,o58714,o58715,o58716,o58717,o58718,o58719,o58720,o58721,o58722,o58723,o58724,o58725,o58726,o58727,o58728,o58729,o58730,o58731,o58732,o58733,o58734,o58735,o58736,o58737,o58738,o58739,o58740,o58741,o58742	chop		Ent seed~1/400|Loop half of key (moon key)~1/966|Beaver~1/143,000
+Candles	o19127	search	Thieving:20	Candle~Always
+Cannonball stall	o58108	steal from	Thieving:87	Bronze cannonball~79/256|Iron cannonball~64/256|Steel cannonball~56/256|Adamant cannonball~24/256|Mithril cannonball~24/256|Rune cannonball~8/256|Dragon cannonball~1/256|Rocky~1/34,315
+Carnivorous chinchompa		catch	Hunter:63	Red chinchompa~Always|Red chinchompa tuft~1/50|Baby chinchompa~Very rare
+Cave goblin (Dorgesh-Kaan)	n2268,n2269,n2271,n2272,n2273,n2274,n2277,n2278,n2280,n2281,n2282,n2283,n2284,n2301	pickpocket	Thieving:36	Coins~7/20|Bat shish~1/20|Bullseye lantern~1/20|Cave goblin wire~1/20|Coated frogs' legs~1/20|Fingers~1/20|Frogburger~1/20|Frogspawn gumbo~1/20
+Cerulean twitch	n5550	catch	Hunter:11	Blue feather~Always|Bones~Always|Raw bird meat~Always
+Chest (10 coins)	o11735	search	Thieving:13	Coins~Always
+Chest (50 coins)	o11737	search	Thieving:43	Coins~Always
+Chest (Aldarin Villas)	o54773,o54774	search	Thieving:36	Coins~20/60|Spinach roll~4/60|Uncut sapphire~4/75|Gold bar~3/60|Silver bar~3/60|Uncut emerald~3/75|Blessed bone shards~2/60|Eclipse red~2/60
+Chest (Ardougne Castle)	o11739	search	Thieving:72	Adamantite ore~Always|Coins~Always|Raw shark~Always|Uncut sapphire~Always
+Chest (Chaos Druid Tower)	o11738	search	Thieving:59	Blood rune~Always|Coins~Always
+Chest (Dorgesh-Kaan Average)	o22697,o22698	search	Thieving:52	Coins~3/7|Bullseye lantern~1/7|Cave goblin wire~1/7|Mining helmet~1/7|Oil lantern~1/7|Air rune~1/20|Air talisman~1/20|Body rune~1/20
+Chest (Dorgesh-Kaan Rich)	o22681,o22682	search	Thieving:78	Bullseye lantern~1/15|Cave goblin wire~1/15|Empty light orb~1/15|Frog-leather body~1/15|Frog-leather chaps~1/15|Iron bar~1/15|Light orb~1/15|Mining helmet~1/15
+Chest (Isle of Souls Dungeon)	o40739,o40740	search	Thieving:28	Coins~20/200|Death rune~20/200|Feather~20/200|Grimy guam leaf~20/200|Nature rune~20/200|Mind rune~15/200|Grimy lantadyme~12/200|Grimy ranarr weed~10/200
+Chest (Rogues' Castle)	o26757,o26758	search	Thieving:84	Nature rune~11/66|Law rune~10/66|Red spiders' eggs~10/66|Coal~8/66|Coins~6/66|Uncut diamond~3/66|Vile ashes~3/66|Blighted ancient ice sack~2/66
+Chest (Underwater)	o30971,o30972	search		Glistening tear~2/17|Mermaid's tear~2/17|Numulite~54/1,487.5|Unidentified small fossil~6/2,975|Unidentified medium fossil~6/5,950|Unidentified large fossil~6/7,437.5|Unidentified rare fossil~6/29,750
+Chest (nature runes)	o11736	search	Thieving:28	Coins~Always|Nature rune~Always
+Chest (stealing valuables)	o52008	search	Thieving:50	Valuables~Always|Blessed bone statuette (buffalo)~12/6,250|Blessed bone statuette (eagle)~12/6,250|Blessed bone statuette (fox)~12/6,250|Emerald amulet~10/6,250|Gold amulet~10/6,250|Gold necklace~10/6,250|Gold ring~10/6,250
+Chest (steel arrowtips)	o11742	search	Thieving:47	Coins~Always|Steel arrowtips~Always
+Chinchompa		catch	Hunter:53	Chinchompa~Always|Chinchompa tuft~1/50|Baby chinchompa~Very rare
+Chocolate deposit		mine		Chocolate chunks~Always
+Citizen (Aldarin)	n13883,n13884,n13885,n13886,n13887,n13888,n13889,n13890,n13891,n13892,n13893,n13894,n13895,n13896,n13897,n13898,n13899,n13900,n13901	pickpocket		Coins~Always
+Citizen (Auburnvale)	n14646,n14647,n14648,n14649,n14650,n14651,n14652,n14653	pickpocket		Coins~Always
+Citizen (Civitas illa Fortis)	n13164,n13165,n13166,n13167,n13168,n13169,n13170,n13171,n13172,n13173,n13178,n13179,n13180,n13181,n13182,n13183,n13184,n13185,n13186,n13187,n13192,n13193,n13194,n13195,n13196,n13197,n13198,n13199,n13200,n13201,n13202,n13203,n13204,n13205	pickpocket		Coins~Always
+Citizen (Kastori)	n14741,n14742,n14743,n14744,n14745,n14746,n14747,n14748	pickpocket		Coins~Always
+Citizen (Tal Teklan)	n14763,n14764,n14765,n14766,n14767,n14768,n14769,n14770	pickpocket		Coins~Always
+Citizen (Twilight's Promise)	n12929	pickpocket		Coins~Always
+Clam	o30969,o30970	search		Glistening tear~2/17|Mermaid's tear~2/17|Numulite~54/1,487.5|Unidentified small fossil~6/2,975|Unidentified medium fossil~6/5,950|Unidentified large fossil~6/7,437.5|Unidentified rare fossil~6/29,750
+Clay rocks	o11362,o11363	mine		Clay~Always|Uncut sapphire~32/32,768|Clue geode (beginner)~1/1,027|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Loop half of key (moon key)~1/4,944|Clue geode (easy)~1/8,737|Clue geode (medium)~1/10,279
+Clue turtle	n15124	from	Sailing:5	Clue scroll (easy)~Always|Clue scroll (medium)~12/20|Clue scroll (hard)~5/20|Clue scroll (elite)~2/20
+Coal rocks	o11366,o11367,o36204	mine	Mining:30	Coal~Always|Unidentified minerals~1/60|Crystal shard~1/65|Clue geode (beginner)~1/312|Uncut sapphire~32/32,768|Loop half of key (moon key)~1/1,937|Uncut emerald~16/32,768|Clue geode (easy)~1/2,660
+Coffin (Hallowed Sepulchre)	o38830,o38831,o38832,o38833,o38834,o38835,o38836,o38837	search	Thieving:66	Hallowed mark~Always|Adamant 2h sword~1/10|Adamant bolts~1/10|Adamant platebody~1/10|Air rune~1/10|Blood rune~1/10|Chaos rune~1/10|Coins~1/10
+Common kebbit		catch	Hunter:3	Bones~Always|Common kebbit fur~Always|Raw beast meat~Always
+Constantinius	n13825,n13826,n13845	pickpocket	Thieving:34	Chest key (Fancy chest)~Always
+Copper longtail	n5552	catch	Hunter:9	Bones~Always|Orange feather~Always|Raw bird meat~Always
+Copper rocks	o10079,o10943,o11161,o37944	mine		Copper ore~Always|Uncut sapphire~32/32,768|Clue geode (beginner)~1/1,027|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Loop half of key (moon key)~1/4,944|Clue geode (easy)~1/8,737|Clue geode (medium)~1/10,279
+Corrupt Deposit	o35967	mine		Corrupted ore~Always|Corrupted shards~1/3
+Corrupt Fishing Spot	o35971,o35972	fish at		Raw paddlefish~Always|Corrupted shards~1/3
+Corrupt Phren Roots	o35969,o35970	chop		Phren bark (corrupted)~Always|Corrupted shards~1/3
+Counter (Gu'Tanoth)	o2792,o2793	search	Thieving:15	Rock cake~Always
+Courier tasks		do		Huge port coin bag~4/5|Large port coin bag~4/5|Medium port coin bag~4/5|Small port coin bag~4/5|Tiny port coin bag~4/5|Huge port reward bag~1/5|Large port reward bag~1/5|Medium port reward bag~1/5
+Cozyac	n13827,n13828,n13846	pickpocket	Thieving:34	Threatening note~Always
+Crafting stall	o4874,o6166	steal from	Thieving:5	Amulet mould~12/54|Bracelet mould~12/54|Necklace mould~11/54|Ring mould~11/54|Chisel~6/54|Gold bar~2/54|Rocky~1/47,593
+Crashed Star	o41020,o41021,o41223,o41224,o41225,o41226,o41227,o41228,o41229	mine		Stardust~Always|Clue geode (beginner)~1/663|Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Loop half of key (moon key)~1/3,477|Uncut ruby~8/32,768|Clue geode (easy)~1/5,642|Clue geode (medium)~1/6,637
+Crimson swift	n5549	catch		Bones~Always|Raw bird meat~Always|Red feather~Always
+Crossbow stall	o17031	steal from	Thieving:49	Bronze bolts~23/40|Bronze limbs~9/40|Wooden stock~3/20|Mithril bolts~3/80|Mithril limbs~1/80|Rocky~1/35,265
+Crystal Deposit	o36064	mine		Crystal ore~Always|Crystal shards (The Gauntlet)~1/3
+Crystal impling		catch	Hunter:80	Amulet of power~1/18|Babydragon bones~1/18|Crystal acorn~1/18|Crystal shard~1/18|Dragon dagger~1/18|Dragon dart tip~1/18|Dragonstone~1/18|Dragonstone amulet~1/18
+Cuffs		search		Coins~Always
+Curator Haig Halen	n5214	pickpocket	Thieving:25	Display cabinet key~Always|Storeroom key (Ethically Acquired Antiquities)~Always
+Daeyalt Essence (rock)	o39094,o39095	mine	Mining:60	Daeyalt shard~Always
+Daeyalt rocks	o17962,o17963,o17964,o17965	mine	Mining:20	Daeyalt ore~Always
+Damaged armour		from		Iron platebody~57/100|Bronze platebody~24/100|Steel platebody~10/100|Black platebody~5/100|Mithril platebody~4/100
+Dark Chest	o40742,o40743	search	Thieving:28	Coins~69/600|Adamant arrow~40/600|Babydragon bones~35/600|Rune arrow~30/600|Death rune~27/600|Law rune~27/600|Blood rune~25/600|Chaos rune~25/600
+Dark kebbit	n5532	catch	Hunter:57	Bones~Always|Dark kebbit fur~Always|Kebbity tuft~1/10
+Dashing kebbit	n5533	catch	Hunter:69	Bones~Always|Dashing kebbit fur~Always|Raw dashing kebbit~Always|Kebbity tuft~1/10
+Dead tree	o1282,o1283,o1284,o1286,o1289	chop		Logs~Common
+Dead tree (2021 Christmas event)	o42907	chop		Logs~Always
+Dead tree (burnt)	o1384	chop		Charcoal~Always
+Dead tree (old)	o1383	chop		Logs~Common
+Dead tree (sandy)	o1290,o51766	chop		Logs~Common
+Dead tree (snowy)	o1291	chop		Logs~Common
+Dead tree (swampy)	o1365	chop		Logs~Common
+Dead tree (weathered)	o1285	chop		Logs~Common
+Dense Jungle	o9020,o9021,o9022,o9023,o9024	chop	Woodcutting:35	Thatch spar dense~Always
+Dense runestone	o8975,o8976,o8977,o8978,o8979,o8980	mine	Mining:38	Dense essence block~Always
+Desert Phoenix	n5137	pickpocket	Thieving:25	Phoenix feather~Always
+Desert devil		catch	Hunter:13	Bones~Always|Desert devil fur~Always|Raw beast meat~Always
+Digsite workman	n3628,n3630,n3631	pickpocket	Thieving:25	Animal skull~3/11|Specimen brush~3/11|Bucket~1/11|Coins~1/11|Leather gloves~1/11|Rope~1/11|Spade~1/11
+Dr Fenkenstrain	n1269	pickpocket	Thieving:25	Ring of Charos~Always|Ring of Charos(a)~Always
+Dragon impling		catch	Hunter:83	Amulet of glory~1/19|Babydragon bones~1/19|Dragon arrow~1/19|Dragon arrowtips~1/19|Dragon bones~1/19|Dragon dagger(p++)~1/19|Dragon dart~1/19|Dragon dart tip~1/19
+Dramen tree	o1292	chop	Woodcutting:36	Dramen branch~Always
+Dream tree	o16604,o16605	chop	Woodcutting:55	Dream log~Always
+Drift net fishing		fish at	Fishing:47	Oyster~1/5|Pufferfish~1/5|Raw anchovies~1/5|Raw sardine~1/5|Raw tuna~1/5|Raw lobster~1/6|Raw swordfish~1/7|Raw shark~1/8
+Drunken man		search		Coins~Always
+Dying tree	o3648	chop		Logs~Common
+Earth impling		catch	Hunter:36	Bucket of sand~1/10|Compost~1/10|Earth rune~1/10|Earth talisman~1/10|Earth tiara~1/10|Fire talisman~1/10|Gold ore~1/10|Mithril ore~1/10
+Easter egg rock	o53062,o53063,o53064,o53065	mine		Easter egg (mined)~Always
+Eclectic impling		catch	Hunter:50	Air rune~1/10|Curry leaf~1/10|Empty candle lantern~1/10|Gold bar~1/10|Gold ore~1/10|Mithril pickaxe~1/10|Oak plank~1/10|Snape grass~1/10
+Efh salt rocks	o33255	mine	Mining:72	Efh salt~Common
+Elf		search	Thieving:85	Coins~105/128|Death rune~8/128|Jug of wine~6/128|Nature rune~5/128|Crystal shard~1/35|Fire orb~2/128|Diamond~1/128|Gold ore~1/128
+Embertailed jerboa		catch	Hunter:39	Jerboa tail~Always|Large jerboa tail~1/50
+Emissary Ascended	n13706,n13707,n13708,n13709,n13710,n13711,n13712,n13713,n13720,n13721,n13729,n13730,n13767,n13768,n13769	pickpocket	Thieving:48	Tower key (The Heart of Darkness)~Always
+Engorged bloodwood tree	o10048	chop	Woodcutting:77	Bucket of bloodwood sap~Always|Beaver~1/317,358
+Ent	n9474	chop		Bird nest (ring)~Rare|Bird nest (seeds)~Rare|Bird nest (egg)~Very rare
+Essence impling		catch	Hunter:42	Air rune~1/10|Body rune~1/10|Chaos rune~1/10|Cosmic rune~1/10|Fire rune~1/10|Mind rune~1/10|Mind talisman~1/10|Pure essence~1/10
+Evergreen tree	o1318,o1319,o2091,o2092	chop		Logs~Common
+Fairy Godfather	n1840,n5837	pickpocket	Thieving:40	Queen's secateurs~Always
+Fallen guardian	o43721	mine		Guardian essence~Always
+Farmer		pickpocket	Thieving:10	Coins~123/128|Potato seed~5/128|Rocky~1/256,961
+Farmer (Kastori)	n14751,n14752,n14753,n14754	pickpocket	Thieving:10	Coins~123/128|Potato seed~5/128
+Farmer (Tal Teklan)	n14773	pickpocket	Thieving:10	Coins~123/128|Potato seed~5/128|Rocky~1/256,961
+Farmer (Varlamore)	n13228,n13229,n13230,n13231,n13232,n13233,n13234,n13235	pickpocket	Thieving:10	Coins~123/128|Potato seed~5/128
+Feldip weasel		catch	Hunter:7	Bones~Always|Feldip weasel fur~Always|Raw beast meat~Always
+Ferret	n1505	catch	Hunter:27	Ferret~Always
+Fish shoal	n7782	catch	Hunter:44	Clue bottle (medium)~1/600
+Fish stall	o31712,o4277,o4705,o4707	steal from	Thieving:42	Raw salmon~14/20|Raw tuna~5/20|Raw lobster~1/20|Rocky~1/35,440
+Fish stall (Port Roberts)	o58103	steal from	Thieving:42	Raw salmon~170/256|Raw tuna~62/256|Raw lobster~12/256|Raw swordtip squid~7/256|Raw giant krill~4/256|Raw haddock~1/256
+Fisherman's shipwreck	o60466,o60467	salvage	Sailing:26	Fishy salvage~Always
+Fishing Spot (The Gauntlet)	o36068,o36069	fish at		Raw paddlefish~Always|Crystal shards (The Gauntlet)~1/3
+Fishing spot (2022 Birthday event)		fish at		Tiny fish~Always
+Fishing spot (Braindeath Island)	n635	fish at	Fishing:50	Sluglings~Common|Karamthulhu~Uncommon
+Fishing spot (Camdozaal)	n10686	fish at	Fishing:7	Barronite shards~Common|Raw catfish~Common|Raw cavefish~Common|Raw guppy~Common|Raw tetra~Common|Clue bottle (beginner)~Rare|Clue bottle (easy)~Rare|Clue bottle (medium)~Rare
+Fishing spot (Civitas illa Fortis)	n13329	fish at		Broken glass~3/10|Big fishing net~2/10|Casket~2/10|Old boot~2/10|House keys~1/10|Jade~1/100|Clue bottle (beginner)~Rare|Clue bottle (easy)~Rare
+Fishing spot (Hemenster)	n4079,n4080,n4081,n4082	fish at	Fishing:10	Raw giant carp~Always|Raw sardine~Always|Whitefish~Always
+Fishing spot (Piscatoris Fishing Colony)	n4316	fish at	Fishing:35	Raw monkfish~Always|Raw swordfish~Common|Raw tuna~Common|Big swordfish~Very rare
+Fishing spot (ScapeRune)	o23114	fish at		Fishlike thing~Always
+Fishing spot (Swan Song)	o13476	fish at	Fishing:62	Fresh monkfish~Always
+Fishing spot (Tempoross Cove)	n10565,n10569	fish at	Fishing:35	Raw harpoonfish~Always|Crystallised harpoonfish~1/3
+Fishing spot (The Stranglewood)	n12267	fish at		Newspaper~3/10|Lobster pot~2/10|Old boot~2/10|Raw pike~2/10|Casket~1/10|Clue bottle (beginner)~Rare|Clue bottle (easy)~Rare|Clue bottle (elite)~Rare
+Fishing spot (Tutorial Island)	n3317,n9729	fish at		Raw shrimps (Tutorial Island)~Always
+Fishing spot (aerial fishing)	n8523	fish at	Fishing:43	Molch pearl~1.5/100|Clue bottle (beginner)~Rare|Clue bottle (easy)~Rare|Clue bottle (elite)~Rare|Clue bottle (hard)~Rare|Clue bottle (medium)~Rare|Golden tench~1/20,000
+Fishing spot (barbarian)	n1542,n7323	fish at	Fishing:48	Leaping salmon~Common|Leaping sturgeon~Common|Leaping trout~Common|Clue bottle (beginner)~Rare|Clue bottle (easy)~Rare|Clue bottle (medium)~Rare|Clue bottle (elite)~Very rare|Clue bottle (hard)~Very rare
+Fishing spot (big net, harpoon)	n10514,n12775,n12776,n14037,n14523,n15067,n15068,n15069,n15077,n15080,n15082,n15083,n15087,n1511,n1520,n16335,n3419,n3915,n4476,n4477,n5233,n5234,n5821,n7200,n7461,n7466,n8525,n8526,n8527,n9171,n9172	fish at	Fishing:16	Raw shark~4,999/5,000|Raw bass~Common|Raw cod~Common|Raw mackerel~Common|Leather boots~Uncommon|Leather gloves~Uncommon|Oyster~Uncommon|Seaweed~Uncommon
+Fishing spot (cage, harpoon)	n10515,n12777,n14039,n15070,n15071,n15075,n15076,n15079,n15084,n15086,n1510,n1519,n1522,n16336,n2146,n3657,n3914,n5820,n7199,n7460,n7465,n7470,n7946,n9173,n9174	fish at	Fishing:35	Raw lobster~Always|Raw swordfish~Common|Raw tuna~Common|Clue bottle (beginner)~Rare|Clue bottle (easy)~Rare|Clue bottle (elite)~Rare|Clue bottle (hard)~Rare|Clue bottle (medium)~Rare
+Fishing spot (dark crab)	n1535,n1536	fish at	Fishing:40	Raw dark crab~Always|Raw lobster~Always
+Fishing spot (frog spawn, eels)	n10653,n1497,n1498,n1499,n1500	fish at	Fishing:28	Raw cave eel~Common|Raw slimy eel~Common|Swamp weed~43/1,000|Frog spawn~11/256
+Fishing spot (karambwan)	n4712,n4713,n4714	fish at	Fishing:65	Raw karambwan~Always|Clue bottle (beginner)~Rare|Clue bottle (easy)~Rare|Clue bottle (elite)~Rare|Clue bottle (hard)~Rare|Clue bottle (medium)~Rare|Heron~Very rare
+Fishing spot (karambwanji)	n4710	fish at	Fishing:5	Raw karambwanji~Common|Raw shrimps~Uncommon|Clue bottle (beginner)~Rare|Clue bottle (easy)~Rare|Clue bottle (elite)~Rare|Clue bottle (hard)~Rare|Clue bottle (medium)~Rare
+Fishing spot (lantern)	n15074,n15078,n15081,n15085	fish at	Fishing:52	Raw jumbo squid~Common|Raw swordtip squid~Common|Clue bottle (beginner)~Rare|Clue bottle (easy)~Rare|Clue bottle (elite)~Rare|Clue bottle (hard)~Rare|Clue bottle (medium)~Rare
+Fishing spot (lava eel)	n15384,n16337,n4928,n6784	fish at	Fishing:53	Raw lava eel~Always
+Fishing spot (minnow)	n7730,n7731,n7732,n7733	fish at	Fishing:82	Minnow~Always
+Fishing spot (river)	o62194,o62195	fish at	Fishing:20	Leechfin~Always|Raw bream~Always
+Fishing spot (sacred eel)	n6488	fish at	Fishing:87	Sacred eel~Always|Clue bottle (beginner)~Rare|Clue bottle (easy)~Rare|Clue bottle (elite)~Rare|Clue bottle (hard)~Rare|Clue bottle (medium)~Rare
+Fishing spot (small net, bait)	n14038,n14040,n14041,n14524,n15066,n1514,n1517,n1518,n1521,n1523,n1524,n1525,n1528,n1530,n1544,n3913,n7155,n7459,n7462,n7467,n7469,n7947	fish at		Raw anchovies~Common|Raw herring~Common|Raw sardine~Common|Raw shrimps~Common|Clue bottle (beginner)~Rare|Clue bottle (easy)~Rare|Clue bottle (elite)~Rare|Clue bottle (hard)~Rare
+Fishing spot (swamp)	n2653,n2654,n2655	fish at	Fishing:28	Raw slimy eel~Common
+Fishy salvage		sort	Sailing:26	Bronze cannonball~40/467|Feather~40/467|Fishing bait~40/467|Oak logs~40/467|Raw lobster~40/467|Raw mackerel~40/467|Raw swordfish~40/467|Seaweed~40/467
+Fiyr remains		from	Firemaking:80	Silver key crimson~45/127.85|Coins~21/100|Gold key red~20/127.85|Silver key brown~20/127.85|Silver key black~10/127.85|Silver key purple~6/127.85
+Floatsam	n16475,n16476,n16477,n16478	fish at	Fishing:30	
+Food Stall	o4875	steal from	Thieving:5	Banana~Always|Rocky~1/47,593
+Freidir		search	Thieving:45	Coins~Always
+Fremennik citizen		search	Thieving:45	Rocky~1/256,086
+Fremennik salvage		sort	Sailing:80	Raw lobster~400/2,670|Raw monkfish~400/2,670|Raw salmon~400/2,670|Raw tuna~400/2,670|Mithril ore~300/2,670|Arctic pine logs~200/2,670|Astral rune~200/2,670|Adamantite nails~100/2,670
+Fremennik shipwreck	o60476,o60477	salvage	Sailing:80	Fremennik salvage~Always
+Frigatebird	n15227	chop		Bird nest (seeds)~1/19.2
+Fruit Stall	o27537,o28823	steal from	Thieving:25	Cooking apple~40/100|Banana~20/100|Strawberry~7/100|Jangerberries~5/100|Lemon~5/100|Lime~5/100|Pineapple~5/100|Redberries~5/100
+Fur stall	o11732,o4278,o51934	steal from	Thieving:35	Grey wolf fur~Always|Rocky~1/35,615
+Fur stall (Port Roberts)	o58102	steal from	Thieving:35	Bear fur~7/8|Grey wolf fur~1/8
+Gem rocks	o11380,o11381,o9030,o9031,o9032	mine	Mining:40	Uncut opal~60/128|Uncut jade~30/128|Uncut red topaz~15/128|Uncut sapphire~9/128|Uncut emerald~5/128|Uncut ruby~5/128|Uncut diamond~4/128|Clue geode (beginner)~1/211
+Gem stall	o11731,o36571,o51935,o6162	steal from	Thieving:75	Uncut sapphire~105/128|Uncut emerald~17/128|Uncut ruby~5/128|Uncut diamond~1/128|Rocky~1/34,615
+Gem stall (Port Roberts)	o58106	steal from	Thieving:75	Uncut sapphire~210/384|Sapphire~105/384|Uncut emerald~34/384|Emerald~17/384|Uncut ruby~10/384|Ruby~5/384|Uncut diamond~2/384|Diamond~1/384
+General Stall	o4876	steal from	Thieving:5	Hammer~1/3|Pot~1/3|Tinderbox~1/3
+Giant krill shoal	o59734	fish at	Fishing:69	Raw giant krill~Always|Giant blue krill~1/2,000|Angler's paint~1/18,000
+Giral bat	n7589	catch	Hunter:30	Raw giral bat (2)~Always
+Glistening shoal	o59741	fish at	Fishing:76	Raw yellowfin~45/100|Raw halibut~40/100|Raw bluefin~10/100|Raw marlin~5/100|Orangefin~45/200,000|Huge halibut~40/200,000|Angler's paint~1/16,200|Purplefin~10/200,000
+Gnome		pickpocket	Thieving:75	Arrow shaft~56/128|Coins~30/128|Swamp toad (item)~24/128|Gold ore~8/128|Earth rune~5/128|King worm~3/128|Fire orb~2/128|Clue scroll (medium)~1/150
+Gnome child		search	Thieving:75	Arrow shaft~56/128|Coins~30/128|Swamp toad (item)~24/128|Gold ore~8/128|Earth rune~5/128|King worm~3/128|Fire orb~2/128|Clue scroll (medium)~1/150
+Gnome woman		search	Thieving:75	Arrow shaft~56/128|Coins~30/128|Swamp toad (item)~24/128|Gold ore~8/128|Earth rune~5/128|King worm~3/128|Fire orb~2/128|Clue scroll (medium)~1/150
+Gold rocks	o11370,o11371,o36206	mine	Mining:40	'perfect' gold ore~Always|Gold ore~Always|Crystal shard~1/65|Clue geode (beginner)~1/296|Uncut sapphire~32/32,768|Loop half of key (moon key)~1/1,977|Uncut emerald~16/32,768|Clue geode (easy)~1/2,521
+Gold vein	o5989,o5990,o5991,o5992	mine	Mining:40	Gold ore~Always
+Golden warbler	n5551	catch	Hunter:5	Bones~Always|Raw bird meat~Always|Yellow feather~Always
+Golem (sunstone)	n16304,o62353,o62354,o62355,o62356,o62357,o62358	from		Uncut sapphire~15/23|Uncut emerald~5/23|Uncut ruby~2/23|Uncut diamond~1/23|Jeweller's chisel~1/300
+Gourmet impling		catch	Hunter:28	Tuna~1/5|Bass~1/10|Chocolate cake~1/10|Curry~1/10|Curry leaf~1/10|Frog spawn~1/10|Meat pie~1/10|Spice~1/10
+Grand Gold Chest	o20946,o20947	search	Thieving:21	Gold seal~1/2|Golden scarab~1/2|Golden statuette~1/2|Stone scarab~1/2|Stone statuette~1/2|Stone seal~1/4|Pharaoh's sceptre~1/650
+Grand Hallowed Coffin	o38838,o38839	search	Thieving:84	Hallowed mark~Always|Blood rune~1/10|Coins~1/10|Law rune~1/10|Monkfish~1/10|Ranarr seed~1/10|Rune 2h sword~1/10|Rune platebody~1/10
+Granite rocks	o11387	mine	Mining:45	Granite (2kg)~Common|Granite (500g)~Common|Granite (5kg)~Common|Clue geode (beginner)~1/716|Clue geode (easy)~1/6,086|Clue geode (medium)~1/7,160|Clue geode (hard)~1/11,814|Clue geode (elite)~1/35,801
+Grubby sapling	o51365	catch		Moonlight grub~Always
+Guanic bat	n7587	catch		Raw guanic bat (0)~Always
+Guard		pickpocket	Thieving:40	Coins~Always|Rocky~1/256,211
+Guard (Aldarin)		pickpocket	Thieving:40	Coins~Always
+Guard (Auburnvale)		pickpocket	Thieving:40	Coins~Always
+Guard (Doric's hut)		pickpocket	Thieving:40	Coins~Always
+Guard (H.A.M. Storerooms)		pickpocket	Thieving:20	Bronze key (H.A.M.)~1/10|Iron key (H.A.M.)~1/10|Silver key (H.A.M.)~1/10|Steel key (H.A.M.)~1/10|Coin pouch (H.A.M. member)~45/500|Buttons~12/500|Damaged armour~12/500|Rusty sword~12/500
+Guard (Hosidius)		pickpocket	Thieving:40	Coins~Always
+Guard (Port Roberts)		pickpocket	Thieving:40	Coins~Always
+Guard (Port Sarim jail)		pickpocket	Thieving:40	Coins~Always
+Guard (Shayzien)		pickpocket	Thieving:40	Coins~Always
+Guard (Tlati Rainforest)		pickpocket	Thieving:40	Coins~Always
+Guard (Varlamore)		pickpocket	Thieving:40	Coins~Always
+Guardian parts	o43715,o43716	mine		Guardian fragments~Always
+Guardian remains	o43717,o43718	mine		Guardian fragments~Always
+H.A.M. Member	n2540,n2541	pickpocket	Thieving:15	Coin pouch (H.A.M. member)~17/102|Buttons~4/102|Damaged armour~4/102|Rusty sword~4/102|Bronze arrow~3/102|Bronze axe~3/102|Bronze dagger~3/102|Bronze pickaxe~3/102
+Haddock shoal	o59735	fish at	Fishing:73	Raw haddock~Always|Golden haddock~1/2,000|Angler's paint~1/18,000
+Halibut shoal	o59737	fish at	Fishing:83	Raw halibut~Always|Huge halibut~1/4,000|Angler's paint~1/18,000
+Hengel		search		Coins~Always
+Herbiboar	n7785,n7786	catch		Numulite~63/175|Herby tuft~1/7|Unidentified small fossil~7/350|Unidentified medium fossil~7/700|Unidentified large fossil~7/875|Unidentified rare fossil~7/3,500|Herbi~1/6,500
+Hero		pickpocket	Thieving:80	Coin pouch#Hero~105/128|Coins~105/128|Death rune~8/128|Jug of wine~6/128|Blood rune~5/128|Fire orb~2/128|Diamond~1/128|Gold ore~1/128
+Hollow tree	o10821,o10830	chop	Woodcutting:45	Bark~Common
+Horned graahk	n2909	catch	Hunter:41	Big bones~Always|Raw graahk~Always|Graahk fur~Common|Tatty graahk fur~Common|Graahk horn spur~1/15
+Huge guardian remains	o43720	mine		Guardian essence~Always
+Huge port coin bag		from		Coins~Always
+Infected root	o56780,o56781,o56782	chop	Woodcutting:80	Demon tear~15/17|Logs~2/17
+Infernal shale deposit	o56362,o56363	mine	Mining:78	Infernal shale~Always|Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Uncut diamond~2/32,768
+Infernal shale rocks	o56359,o56360	mine	Mining:78	Infernal shale~Always|Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Uncut diamond~2/32,768
+Inga	n3946	pickpocket	Thieving:45	Coins~Always
+Iron rocks	o11364,o11365,o36203,o42833	mine	Mining:15	Iron ore~Always|Crystal shard~1/65|Unidentified minerals~1/100|Clue geode (beginner)~1/902|Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Loop half of key (moon key)~1/4,944
+Ironwood tree	o58559,o58560	chop	Woodcutting:80	Ironwood logs~Always|Beaver~1/70,000
+Ironwood tree	o58743,o58744,o58745,o58746,o58747,o58748,o58749,o58750,o58751,o58752,o58753,o58754,o58755,o58756,o58757,o58758,o58759,o58760,o58761,o58762,o58763,o58764,o58765,o58766,o58767,o58768,o58769,o58770,o58771,o58772,o58773	chop		Ent seed~1/400|Loop half of key (moon key)~1/482|Beaver~1/70,000
+Istoria	n11112,n11113	pickpocket	Thieving:52	Bluish key~Always
+Jatoba tree	o58555,o58556	chop	Woodcutting:40	Jatoba logs~Always|Beaver~1/262,000
+Jeff		search		Coins~Always
+Jennella		search	Thieving:45	Coins~Always
+Jewellery case (stealing valuables)	o52011	search	Thieving:50	Valuables~Always|Blessed bone statuette (buffalo)~12/6,250|Blessed bone statuette (eagle)~12/6,250|Blessed bone statuette (fox)~12/6,250|Emerald amulet~10/6,250|Gold amulet~10/6,250|Gold necklace~10/6,250|Gold ring~10/6,250
+Jungle Bush	o2892,o2893	chop		Logs~Common
+Jungle tree	o4818,o4820	chop		Logs~Always
+Jungle tree (Kharazi Jungle)	o2887	chop		Logs~Always
+Jungle tree (dense Kharazi Jungle)	o2889,o2890	chop		Logs~Always
+Knight of Ardougne		pickpocket	Thieving:55	Coins~Always|Rocky~1/255,836
+Knight of Varlamore		search	Thieving:55	Coins~Always
+Kryket bat	n7591	catch	Hunter:60	Raw kryket bat (4)~Always
+Lanzig		search	Thieving:45	Coins~Always
+Large guardian remains	o43719	mine		Guardian fragments~Always
+Large port coin bag		from		Coins~Always
+Large salvage		sort	Sailing:53	Emerald ring~300/2,218|Gold ring~300/2,218|Sapphire ring~300/2,218|Diamond ring~200/2,218|Oyster pearl~200/2,218|Oyster pearls~200/2,218|Steel nails~200/2,218|Teak logs~200/2,218
+Large shipwreck	o60470,o60471	salvage	Sailing:53	Large salvage~Always
+Lead rocks	o58917,o58918	mine	Mining:25	Lead ore~Always|Clue geode (beginner)~1/902|Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Clue geode (easy)~1/7,673|Clue geode (medium)~1/9,028|Clue geode (hard)~1/14,896
+Lensa		search	Thieving:45	Coins~Always
+Letvek	n15739	catch	Hunter:76	Letvek~Always
+Light Jungle	o9010,o9011,o9012,o9013,o9014	chop	Woodcutting:10	Thatch spar light~Always
+Light leech	n12367,n12368	pickpocket	Thieving:70	Illuminating lure~Always
+Limestone rock	o11382,o11383,o11384,o11385	mine	Mining:10	Limestone~Always|Clue geode (beginner)~1/943|Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Clue geode (easy)~1/8,022|Clue geode (medium)~1/9,438|Clue geode (hard)~1/15,573
+Loar remains		from	Firemaking:5	Bronze key red~35/108.86|Bronze key brown~30/108.86|Coins~21/100|Bronze key crimson~21/108.86
+Lost camphor crate	n15129	from	Sailing:85	Amethyst arrow~1/8|Black dragon leather~1/8|Blood rune~1/8|Camphor plank~1/8|Rune battleaxe~1/8|Runite bar~1/8|Super combat potion(2)~1/8|Yew seed~1/8
+Lost ironwood crate	n15130	from	Sailing:95	Dragon arrow~1/8|Dragon metal sheet~1/8|Dragon sword~1/8|Ironwood plank~1/8|Mixed hide base~1/8|Prayer regeneration potion(1)~1/8|Spirit seed~1/8|Wrath rune~1/8
+Lost mahogany crate	n15128	from	Sailing:70	Adamantite bar~1/8|Mahogany plank~1/8|Nature rune~1/8|Red dragon leather~1/8|Rune arrow~1/8|Rune dagger~1/8|Stamina potion(2)~1/8|Watermelon seed~1/8
+Lost oak crate	n15126	from	Sailing:25	Black warhammer~1/8|Gold bar~1/8|Law rune~1/8|Mithril arrow~1/8|Sawmill coupon (oak plank)~1/8|Snakeskin~1/8|Superantipoison(2)~1/8|Willow seed~1/8
+Lost supplies	o58981,o59173,o59244	from		Sawmill coupon (oak plank)~15/100
+Lost teak crate	n15127	from	Sailing:50	Adamant arrow~1/8|Adamant scimitar~1/8|Chaos rune~1/8|Green dragon leather~1/8|Mithril bar~1/8|Prayer potion(4)~1/8|Ranarr seed~1/8|Teak plank~1/8
+Lost wooden crate	n15125	from	Sailing:5	Leather~1/8|Mind rune~1/8|Sawmill coupon (wood plank)~1/8|Silver bar~1/8|Steel arrow~1/8|Steel scimitar~1/8|Strength potion(4)~1/8|Sweetcorn seed~1/8
+Lovakite rocks	o28596,o28597	mine	Mining:65	Lovakite ore~Always|Clue geode (beginner)~1/208|Uncut sapphire~32/32,768|Clue geode (easy)~1/1,771|Uncut emerald~16/32,768|Clue geode (medium)~1/2,083|Clue geode (hard)~1/3,437|Uncut ruby~8/32,768
+Magic Stall	o4877	steal from	Thieving:65	Air rune~6/20|Earth rune~6/20|Fire rune~6/20|Law rune~1/20|Nature rune~1/20|Rocky~1/34,865
+Magic birdhouse	o31836,o31837,o31838	check	Hunter:74	Clockwork~Always|Feather~Always|Raw bird meat~Always|Bird nest (empty)~65/100|Bird nest (ring)~32/100|Bird nest (egg)#Blue egg~1/100|Bird nest (egg)#Green egg~1/100|Bird nest (egg)#Red egg~1/100
+Magic tree	o10834	chop	Woodcutting:75	Magic logs~Always|Magic leaves~1/4|Crystal shard~1/40|Bird nest (ring)~Rare|Bird nest (seeds)~Rare|Clue nest~Rare|Ent seed~1/400|Loop half of key (moon key)~1/482
+Magical rocks	o6669,o6670,o6671	mine		Magic stone (Tears of Guthix)~Always
+Magpie impling		catch	Hunter:65	Black dragonhide~2/21|Amulet of power~1/21|Diamond~1/21|Diamond amulet~1/21|Dragon dagger~1/21|Loop half of key~1/21|Mystic boots~1/21|Mystic gloves~1/21
+Mahogany birdhouse	o31830,o31831,o31832	check	Hunter:49	Clockwork~Always|Feather~Always|Raw bird meat~Always|Bird nest (empty)~65/100|Bird nest (ring)~32/100|Bird nest (egg)#Blue egg~1/100|Bird nest (egg)#Green egg~1/100|Bird nest (egg)#Red egg~1/100
+Mahogany tree	o36688,o40760,o9034	chop	Woodcutting:50	Mahogany logs~Common|Crystal shard~1/40|Bird nest (ring)~Rare|Bird nest (seeds)~Rare|Clue nest~Rare|Ent seed~1/400|Beaver~Very rare|Bird nest (egg)~Very rare
+Man		pickpocket		Coins~Always|Rocky~1/257,211
+Man (East Ardougne)		pickpocket		Coins~Always
+Maniacal monkey	n7212,n7213,n7214,n7215,n7216	catch	Hunter:60	Damaged monkey tail~4,999/5,000|Monkey tail~1/5,000
+Maple birdhouse	o31827,o31828,o31829	check	Hunter:44	Clockwork~Always|Feather~Always|Raw bird meat~Always|Bird nest (empty)~65/100|Bird nest (ring)~32/100|Bird nest (egg)#Blue egg~1/100|Bird nest (egg)#Green egg~1/100|Bird nest (egg)#Red egg~1/100
+Maple tree	o10832,o36681,o40754	chop	Woodcutting:45	Maple logs~Always|Maple leaves~1/4|Bird nest (ring)~Rare|Bird nest (seeds)~Rare|Clue nest~Rare|Ent seed~1/400|Beaver~Very rare|Bird nest (egg)~Very rare
+Market stall (wine)	o14011	steal from	Thieving:22	Jug~39/100|Jug of water~20/100|Grapes~17/100|Jug of wine~13/100|Bottle of wine~11/100|Rocky~1/35,940
+Marlin shoal	o59739	fish at	Fishing:91	Raw marlin~Always|Swift marlin~1/6,000|Angler's paint~1/18,000
+Martial salvage		sort	Sailing:73	Adamant arrowtips~300/2,440|Mithril dart tip~300/2,440|Mithril longsword~300/2,440|Adamant arrow~200/2,440|Adamant dart tip~200/2,440|Adamant longsword~200/2,440|Amulet of power~200/2,440|Adamant 2h sword~100/2,440
+Martin the Master Gardener	n5832	pickpocket	Thieving:38	Potato seed~1/5.65|Onion seed~1/7.53|Cabbage seed~1/14.4|Tomato seed~1/15.7|Barley seed~1/18|Hammerstone seed~1/18|Marigold seed~1/21.8|Asgarnian seed~1/23.9
+Master Farmer	n11940,n11941,n13236,n13237,n13238,n13239,n13240,n13241,n13242,n13243,n14755,n14756,n14757,n14758,n5730,n5731	pickpocket	Thieving:38	Potato seed~1/5.65|Onion seed~1/7.53|Cabbage seed~1/14.4|Tomato seed~1/15.7|Barley seed~1/18|Hammerstone seed~1/18|Marigold seed~1/21.8|Asgarnian seed~1/23.9
+Mature juniper tree	o27499	chop	Woodcutting:42	Juniper logs~Always
+Medium Jungle	o9015,o9016,o9017,o9018,o9019	chop	Woodcutting:20	Thatch spar med~Always
+Medium port coin bag		from		Coins~Always
+Menaphite Thug		pickpocket	Thieving:65	Coins~Always|Rocky~1/255,586
+Mercenary shipwreck	o60474,o60475	salvage	Sailing:73	Martial salvage~Always
+Merchant shipwreck	o60478,o60479	salvage	Sailing:87	Opulent salvage~Always
+Mithril rocks	o11372,o11373,o36207	mine	Mining:55	Mithril ore~Always|Unidentified minerals~1/40|Crystal shard~1/65|Clue geode (beginner)~1/133|Loop half of key (moon key)~1/988|Uncut sapphire~32/32,768|Clue geode (easy)~1/1,138|Clue geode (medium)~1/1,339
+Moonlight antelope	n13132	catch	Hunter:91	Big bones~Always|Moonlight antelope antler~Always|Moonlight antelope fur~Always|Raw moonlight antelope~Always|Antelope hoof shard (moonlight)~1/15
+Moonlight moth	n12771,n12772,n12773	catch	Hunter:75	Moonlight moth (item)~Always|Moonlight moth wing~1/40
+Moss Lizard	n13028	catch	Hunter:20	Raw moss lizard~Always
+Movario	n2341	pickpocket	Thieving:42	Pendant of Lucien~Always
+Muddy patch	o30533,o30536,o30543,o30544,o30546,o30547,o30549,o31479,o31480	catch		Numulite~63/175|Unidentified small fossil~7/350|Unidentified medium fossil~7/700|Unidentified large fossil~7/875|Unidentified rare fossil~7/3,500
+Murng bat	n7592	catch	Hunter:75	Raw murng bat (5)~Always
+Mushroom (herbiboar, red)	o30534,o30539	catch		Numulite~63/175|Unidentified small fossil~7/350|Unidentified medium fossil~7/700|Unidentified large fossil~7/875|Unidentified rare fossil~7/3,500
+Narf		search		Coins~Always
+Nature impling		catch	Hunter:58	Belladonna seed~1/10|Cactus spine~1/10|Coconut~1/10|Harralander seed~1/10|Irit seed~1/10|Jangerberry seed~1/10|Limpwurt seed~1/10|Magic logs~1/10
+Nickel rocks	o58923,o58924	mine	Mining:74	Nickel ore~Always|Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Uncut diamond~2/32,768
+Ninja impling		catch	Hunter:74	Black dragonhide~1/19|Dagannoth hide~1/19|Dragon dagger(p+)~1/19|Mystic boots~1/19|Mystic gloves~1/19|Onyx bolt tips~1/19|Onyx bolts~1/19|Opal machete~1/19
+Oak birdhouse	o30556,o30557,o30558	check	Hunter:14	Clockwork~Always|Feather~Always|Raw bird meat~Always|Bird nest (empty)~65/100|Bird nest (ring)~32/100|Bird nest (egg)#Blue egg~1/100|Bird nest (egg)#Green egg~1/100|Bird nest (egg)#Red egg~1/100
+Oak larder		search	Construction:33	Bucket of milk~Always|Egg~Always|Pot of flour~Always|Tea leaves~Always
+Oak shelves 1		search	Construction:34	Beer glass (Player-owned house)~Always|Bowl~Always|Cake tin~Always|Empty cup (clay)~Always|Kettle~Always|Teapot (clay)~Always
+Oak shelves 2		search	Construction:45	Beer glass (Player-owned house)~Always|Bowl~Always|Cake tin~Always|Kettle~Always|Pie dish~Always|Porcelain cup (porcelain)~Always|Teapot (porcelain)~Always
+Oak tree	o10820,o42395,o51772	chop	Woodcutting:15	Oak logs~Always|Oak leaves~1/4|Bird nest (ring)~Rare|Bird nest (seeds)~Rare|Clue nest~Rare|Ent seed~1/400|Bird nest (egg)~Very rare|Loop half of key (moon key)~1/2,407
+Oak tree (2024 Christmas event)	o55913	chop	Woodcutting:15	Oak logs~Always|Oak leaves~1/4|Beaver~Very rare
+Oak tree (The Node)	o42831	chop	Woodcutting:15	Oak logs~Always
+Ogre Coffin	o6848,o6850,o6853,o6854,o6855,o6883,o6890,o6891,o6892	search	Thieving:20	Zogre bones~64/128|Coins~15/100|Fayrg bones~14/128|Raurg bones~10/128|Damaged armour~4/100|Rusty sword~4/100|Ourg bones~5/128|Bronze axe~3/100
+Opulent salvage		sort	Sailing:87	Fish offcuts~30/424|Grey wolf fur~30/424|Jug of wine~30/424|Silk~30/424|Silver bar~30/424|Silver ore~30/424|Spice~30/424|Tiara~30/424
+Orange salamander	n2903	catch	Hunter:47	Orange salamander~Always|Orange salamander claw~1/25
+Ore stall (Port Roberts)	o58107	steal from	Thieving:82	Iron ore~25/75|Coal~15/75|Gold ore~10/75|Mithril ore~10/75|Silver ore~10/75|Adamantite ore~4/75|Runite ore~1/75
+Ore vein	o26661,o26662,o26663,o26664	mine	Mining:30	Pay-dirt~Always|Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Uncut diamond~2/32,768
+Paladin		pickpocket	Thieving:70	Chaos rune~Always|Coins~Always|Clue scroll (hard)~1/500|Rocky~1/125,306
+Panning point	o2363	fish at		Panning tray (mud)~Always
+Panning tray		fish at		Coins~4/40|Nuggets~4/40|Oyster~3/40|Special cup~3/40|Uncut jade~3/40|Uncut opal~3/40
+Pavo	n13831,n13832,n13848	pickpocket	Thieving:34	Drinking flask~Always
+Phluxia bat	n7590	catch	Hunter:45	Raw phluxia bat (3)~Always
+Phren Roots	o36066,o36067	chop		Phren bark~Always|Crystal shards (The Gauntlet)~1/3
+Phrin remains		from	Firemaking:5	Steel key red~35/127.85|Steel key brown~30/127.85|Coins~21/100|Steel key crimson~20/127.85|Bronze key black~10/127.85|Bronze key purple~6/127.85
+Pile of Rock	o12564,o12565,o12566,o12567	mine		Rock (elemental)~Always
+Pile of Rock (Big Cats & WWF)		mine	Mining:10	Stone (Big Cats & WWF)~Always
+Pirate		search	Thieving:60	Coins~170/200|Medallion fragment#3~1/10|Bronze cannonball~14/200|Iron cannonball~10/200|Steel cannonball~5/200|Elkhorn frag~1/200|Clue scroll (medium)~Very rare|Rocky~1/255,711
+Pirate shipwreck	o60472,o60473	salvage	Sailing:64	Plundered salvage~Always
+Plundered salvage		sort	Sailing:64	Gold ring~200/1,036|Emerald bracelet~100/1,036|Mithril scimitar~100/1,036|Oyster pearls~100/1,036|Rum~100/1,036|Sapphire ring~100/1,036|Ruby bracelet~75/1,036|Casket~50/1,036
+Polar kebbit		catch		Bones~Always|Polar kebbit fur~Always|Raw beast meat~Always
+Pontak	n3941	pickpocket	Thieving:45	Coins~Always
+Portal (Prifddinas Agility Course)	o36240,o36241,o36242,o36243,o36244,o36245,o36246	from	Agility:75	Crystal shard~Always
+Prael bat	n7588	catch	Hunter:15	Raw prael bat (1)~Always
+Prickly kebbit	n1346	catch	Hunter:37	Bones~Always|Kebbit spike~Always|Kebbity tuft~1/15
+Priest (Goblin)	n11302,n11303,n11304,n11305,n11306,n11307,n11308,n11309,n11310,n11311,n11312,n11313	pickpocket	Thieving:45	Ekeleshuun key~Always|Horogothgar key~Always|Huzamogaarb key~Always|Narogoshuun key~Always|Saragorgak key~Always|Yurkolgokh key~Always
+Psykk bat	n7593	catch	Hunter:90	Raw psykk bat (6)~Always
+Pyre fox	n13138	catch	Hunter:57	Bones~Always|Fox fur~Always|Raw pyre fox~Always|Fox fluff~1/15
+Rainbow crab	n15091,n15092,n15093	catch	Hunter:77	Rainbow crab~Always
+Razor-backed kebbit		catch	Hunter:49	Bones~Always|Long kebbit spike~Always|Raw beast meat~Always|Kebbity tuft~1/15
+Red crab	n15089	catch	Hunter:21	Red crab~Always
+Red salamander	n2904	catch	Hunter:59	Red salamander~Always|Red salamander claw~1/25
+Redwood birdhouse	o31839,o31840,o31841	check	Hunter:89	Clockwork~Always|Feather~Always|Raw bird meat~Always|Bird nest (empty)~65/100|Bird nest (ring)~32/100|Bird nest (egg)#Blue egg~1/100|Bird nest (egg)#Green egg~1/100|Bird nest (egg)#Red egg~1/100
+Redwood tree	o29668,o29669,o29670,o29671,o29681,o29682	chop	Woodcutting:90	Redwood logs~Always|Clue nest~Rare|Beaver~1/70,000
+Reinforced chest	o60517,o60518,o60519	search	Thieving:76	Coins~20/60|Gold bar~4/60|Silver bar~4/60|Uncut sapphire~4/75|Adamant dagger~3/60|Adamant scimitar~3/60|Death rune~3/60|Steel cannonball~3/60
+Riyl remains		from	Firemaking:35	Black key red~35/127.85|Black key brown~30/127.85|Coins~21/100|Black key crimson~20/127.85|Steel key black~10/127.85|Steel key purple~6/127.85
+Rocks (The Tourist Trap)	o18961,o2704	mine		Rock (The Tourist Trap)~Always|Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Uncut diamond~2/32,768
+Rod Fishing spot (anglerfish)	n6825	fish at	Fishing:82	Raw anglerfish~Always|Clue bottle (beginner)~1/60|Clue bottle (easy)~1/514|Clue bottle (medium)~1/604|Clue bottle (hard)~1/998|Clue bottle (elite)~1/3,024|Heron~1/76,599
+Rod Fishing spot (infernal eel)	n7676	fish at	Fishing:80	Infernal eel~Always|Clue bottle (beginner)~Rare|Clue bottle (easy)~Rare|Clue bottle (elite)~Rare|Clue bottle (hard)~Rare|Clue bottle (medium)~Rare
+Rod Fishing spot (lure, bait)	n12774,n14036,n14521,n14522,n14525,n14526,n14527,n14528,n1506,n1507,n15072,n15073,n1508,n1509,n1512,n1513,n1515,n1516,n1526,n1527,n1529,n3417,n3418,n394,n7463,n7464,n7468,n8524	fish at	Fishing:20	Raw pike~Always|Raw rainbow fish~Always|Raw salmon~Common|Raw trout~Common|Clue bottle (beginner)~Rare|Clue bottle (easy)~Rare|Clue bottle (elite)~Rare|Clue bottle (hard)~Rare
+Rogue		pickpocket	Thieving:32	Coins~123/144|Air rune~9/144|Jug of wine~6/144|Lockpick~5/144|Iron dagger(p)~1/144|Rocky~1/256,411
+Rosewood tree	o58561,o58562	chop	Woodcutting:92	Rosewood logs~Always|Beaver~1/70,000
+Rosewood tree	o58774,o58775,o58776,o58777,o58778,o58779,o58780,o58781,o58782,o58783,o58784,o58785,o58786,o58787,o58788,o58789,o58790,o58791,o58792,o58793,o58794,o58795,o58796,o58797,o58798,o58799,o58800,o58801,o58802,o58803,o58804	chop		Ent seed~1/400|Loop half of key (moon key)~1/482|Beaver~1/70,000
+Rubble (In Aid of the Myreque)	o12812,o12813,o12814,o12815	mine	Mining:15	Black nails~Always|Broken glass~Always|Bronze nails~Always|Dusty scroll (In Aid of the Myreque)~Always|Iron nails~Always|Mithril nails~Always|Plaster fragment~Always|Rock (limestone)~Always
+Rubium deposit	o58921,o58922	mine	Mining:68	Rubium geode~Always|Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Uncut diamond~2/32,768
+Rubium rocks	o58919,o58920	mine	Mining:48	Rubium splinters~Always|Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Uncut diamond~2/32,768
+Ruby harvest	n5556	catch	Hunter:15	Ruby harvest (item)~Always
+Rune Essence (rock)	o34773	mine		Pure essence~Always|Rune essence~Always
+Runite rocks	o11376,o11377,o36209	mine	Mining:85	Runite ore~Always|Unidentified minerals~1/20|Clue geode (beginner)~1/32|Crystal shard~1/65|Clue geode (easy)~1/272|Loop half of key (moon key)~1/282|Clue geode (medium)~1/320|Clue geode (hard)~1/529
+Rusty		search		Coins~Always
+Rusty chest	o60511,o60512,o60513	search	Thieving:33	Coins~20/60|Medallion fragment#1~1/4|Gold bar~4/60|Silver bar~4/60|Uncut sapphire~4/75|Bronze cannonball~3/60|Elkhorn frag~3/60|Mind rune~3/60
+Rusty sword		from		Iron longsword~37/100|Iron sword~20/100|Bronze sword~17/100|Bronze longsword~7/100|Steel sword~6/100|Mithril longsword~4/100|Steel longsword~4/100|Black sword~3/100
+Sabre-toothed kebbit	n1347	catch	Hunter:51	Bones~Always|Kebbit teeth~Always|Kebbity tuft~1/15
+Sabre-toothed kyatt	n2907	catch	Hunter:55	Big bones~Always|Raw kyatt~Always|Kyatt fur~Common|Tatty kyatt fur~Common|Kyatt tooth chip~1/15
+Salt Deposit	o47522	mine		Salax salt~Always
+Saltpetre (deposit)	o27433,o27434,o27435,o27436	mine		Saltpetre~Always
+Salvager	n13971,n13972,n13973,n13975,n13976,n13977	pickpocket		Coins~Always
+Sandstone rocks	o11386	mine	Mining:35	Sandstone (10kg)~Common|Sandstone (1kg)~Common|Sandstone (2kg)~Common|Sandstone (5kg)~Common|Clue geode (beginner)~1/769|Clue geode (easy)~1/6,537|Clue geode (medium)~1/7,690|Clue geode (hard)~1/12,689
+Sandworm castings	o27557	catch	Hunter:15	
+Sandy	n5384,n5385	pickpocket	Thieving:17	Sand~Always
+Sapling (Chambers of Xeric)	o29763,o29764	chop		Kindling (Chambers of Xeric)~Always
+Sapphire glacialis	n5555	catch	Hunter:25	Sapphire glacialis (item)~Always|Blue butterfly wing~1/40
+Sarcophagus (Pyramid Plunder)	o21255,o21256,o21257	search	Thieving:21	Gold seal~1/2|Pottery statuette~1/2|Stone scarab~1/2|Stone seal~1/2|Stone statuette~1/2|Pottery scarab~1/4|Pharaoh's sceptre~1/650
+Sassilik	n3945	pickpocket	Thieving:45	Coins~Always
+Scimitar Stall	o4878	steal from	Thieving:65	Iron scimitar~23/40|Steel scimitar~13/40|Mithril scimitar~3/40|Adamant scimitar~1/40|Rocky~1/34,865
+Scrapey tree	o15970,o15971	chop		Scrapey tree logs~Always
+Seaweed (herbiboar)	o30537,o30542,o30550,o30551	catch		Numulite~63/175|Unidentified small fossil~7/350|Unidentified medium fossil~7/700|Unidentified large fossil~7/875|Unidentified rare fossil~7/3,500
+Seed Stall	o7053	steal from	Thieving:27	Hammerstone seed~120/1,000|Marigold seed~119/1,000|Potato seed~119/1,000|Barley seed~118/1,000|Onion seed~89/1,000|Asgarnian seed~83/1,000|Cabbage seed~71/1,000|Yanillian seed~47/1,000
+Shimmering shoal	o59740	fish at	Fishing:69	Raw giant krill~45/100|Raw haddock~40/100|Raw yellowfin~10/100|Raw halibut~5/100|Giant blue krill~45/100,000|Golden haddock~40/100,000|Orangefin~10/100,000|Angler's paint~1/16,200
+Shooting Stars		mine		Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Uncut diamond~2/32,768
+Shop Counter (gems)	o30280	search	Thieving:75	Uncut sapphire~1,000/3,000|Uncut emerald~600/3,000|Sapphire~500/3,000|Emerald~300/3,000|Uncut ruby~300/3,000|Ruby~150/3,000|Uncut diamond~98/3,000|Diamond~49/3,000
+Shop Counter (ore)	o30279	search	Thieving:82	Iron ore~25/80|Coal~15/80|Gold ore~10/80|Mithril ore~10/80|Silver ore~10/80|Adamantite ore~8/80|Runite ore~2/80|Rocky~1/34,440
+Sigmund	n5322,n5323	pickpocket	Thieving:13	Key (The Lost Tribe)~Always
+Silk stall	o11729,o36569,o51933	steal from	Thieving:20	Silk~Always|Rocky~1/68,426
+Silk stall (Port Roberts)	o58101	steal from	Thieving:20	Silk~Always
+Silver rocks	o11368,o11369,o36205	mine	Mining:20	Silver ore~Always|Crystal shard~1/65|Clue geode (beginner)~1/865|Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Loop half of key (moon key)~1/4,944|Clue geode (easy)~1/7,354
+Silver stall	o11734,o36570,o6164	steal from	Thieving:50	Silver ore~4/5|Silver bar~3/20|Tiara~1/20|Rocky~1/35,240
+Silver stall (Port Roberts)	o58104	steal from	Thieving:50	Medallion fragment#5~Always|Silver ore~6/10|Silver bar~3/10|Tiara~1/10
+Small port coin bag		from		Coins~Always
+Small salvage		sort	Sailing:15	Bronze bar~200/1,721|Bronze nails~200/1,721|Logs~200/1,721|Air rune~100/1,721|Bones~100/1,721|Bronze cannonball~100/1,721|Coins~100/1,721|Iron nails~100/1,721
+Small shipwreck	o60464,o60465	salvage	Sailing:15	Small salvage~Always
+Smelly mushroom	o30535,o30540,o30541,o30545	catch		Numulite~63/175|Unidentified small fossil~7/350|Unidentified medium fossil~7/700|Unidentified large fossil~7/875|Unidentified rare fossil~7/3,500
+Snowy knight	n5554	catch	Hunter:35	Snowy knight (item)~Always|White butterfly wing~1/40
+Soft clay rocks	o36210	mine	Mining:70	Soft clay~Always|Crystal shard~1/65|Clue geode (beginner)~1/629|Uncut sapphire~32/32,768|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Clue geode (easy)~1/5,348|Clue geode (medium)~1/6,292
+Soil	o2376,o2377,o2378	mine		Bones~2/16|Coins~2/20|Numulite~27,650/280,000|Broken glass~1/12|Buttons~1/12|Copper ore~1/12|Leather boots~1/12|Old tooth~1/12
+Specimen tray	o2375	mine		Bones~2/11|Broken arrow~1/11|Broken glass~1/11|Ceramic remains~1/11|Charcoal~1/11|Coins~1/11|Cracked sample~1/11|Iron dagger~1/11
+Spice stall	o11733,o36572,o51936	steal from	Thieving:65	Spice~Always|Rocky~1/34,865
+Spice stall (Port Roberts)	o58105	steal from	Thieving:65	Spice~Always
+Spined larupia	n2908	catch	Hunter:31	Big bones~Always|Raw larupia~Always|Larupia fur~Common|Tatty larupia fur~Common|Larupia ear~1/15
+Spotted kebbit	n5531	catch	Hunter:43	Bones~Always|Spotted kebbit fur~Always|Kebbity tuft~1/10
+Sq'irk tree	o12943,o13405,o13406,o13407	search		Autumn sq'irk~Always|Spring sq'irk~Always|Summer sq'irk~Always|Winter sq'irk~Always|Rocky~1/10,314
+Stalagmites (Lunar Isle)	o15250,o15251	mine	Mining:60	Lunar ore~Always
+Stone chest	o34429	search	Thieving:64	Coins~100/300|Lizardman fang~85/300|Xerician fabric~66/300|Uncut sapphire~12/300|Uncut ruby~8/300|Clue scroll (medium)~3/300|Limpwurt seed~1/153|Strawberry seed~1/160
+Student	n3632,n3633,n3634	pickpocket	Thieving:25	Teddy~Always
+Stymphike	n15747	catch	Hunter:82	Bones~Always|Stymphike carcass~Always|Stymphike feather~Always
+Sulliuscep	o30602,o30603	chop	Woodcutting:65	Mushroom~90/100|Numulite~45/175|Mort myre fungus~9/100|Unidentified small fossil~5/350|Sulliuscep cap~1/100|Unidentified medium fossil~5/700|Unidentified large fossil~5/875|Unidentified rare fossil~5/3,500
+Sunlight Moth	n12770	catch	Hunter:65	Sunlight moth (item)~Always|Sunlight moth wing~1/40
+Sunlight antelope	n13133	catch	Hunter:72	Big bones~Always|Raw sunlight antelope~Always|Sunfire splinters~Always|Sunlight antelope antler~Always|Sunlight antelope fur~Always|Antelope hoof shard (sunlight)~1/15
+Sunstone monolith	o62216	mine	Mining:53	Sunstone~Always|Clue geode (beginner)~1/1,027|Clue geode (easy)~1/8,737|Clue geode (medium)~1/10,279|Clue geode (hard)~1/16,961|Clue geode (elite)~1/51,397|Rock golem~1/741,575
+Sunstone rocks	o62393,o62394	mine	Mining:53	Sunstone~Always|Clue geode (beginner)~1/1,027|Clue geode (easy)~1/8,737|Clue geode (medium)~1/10,279|Clue geode (hard)~1/16,961|Clue geode (elite)~1/51,397|Rock golem~1/741,575
+Swamp lizard	n2906	catch	Hunter:29	Swamp lizard~Always|Swamp lizard claw~1/25
+Swaying tree	o4142	chop	Woodcutting:40	Branch~Always
+Tarnished 2h sword		from	Crafting:64	Rune 2h sword~5/10|Adamant 2h sword~4/10|Mithril 2h sword~1/10
+Tarnished amulet		from	Crafting:64	Ruby amulet (u)~6/10|Sapphire amulet (u)~3/10|Diamond amulet (u)~1/10
+Tarnished battleaxe		from	Crafting:64	Rune battleaxe~5/10|Adamant battleaxe~4/10|Dragon battleaxe~1/10
+Tarnished bracelet		from	Crafting:64	Ruby bracelet~5/10|Diamond bracelet~4/10|Topaz bracelet~1/10
+Tarnished chest	o60514,o60515,o60516	search	Thieving:54	Coins~20/60|Gold bar~4/60|Silver bar~4/60|Uncut sapphire~4/75|Chaos rune~3/60|Iron cannonball~3/60|Mithril dagger~3/60|Mithril scimitar~3/60
+Tarnished halberd		from	Crafting:64	Rune halberd~5/10|Adamant halberd~4/10|Dragon halberd~1/10
+Tarnished longsword		from	Crafting:64	Rune longsword~5/10|Adamant longsword~4/10|Dragon longsword~1/10
+Tarnished necklace		from	Crafting:64	Ruby necklace~5/10|Diamond necklace~4/10|Jade necklace~1/10
+Tarnished ring		from	Crafting:64	Ruby ring~7/10|Topaz ring~2/10|Sapphire ring~1/10
+Tarnished spear		from	Crafting:64	Rune spear~7/10|Adamant spear~2/10|Mithril spear~1/10
+Te salt rocks	o33256	mine	Mining:72	Te salt~Common
+Tea stall	o635	steal from	Thieving:5	Cup of tea~Always|Rocky~1/68,801
+Teak birdhouse	o30562,o30563,o30564	check	Hunter:34	Clockwork~Always|Feather~Always|Raw bird meat~Always|Bird nest (empty)~65/100|Bird nest (ring)~32/100|Bird nest (egg)#Blue egg~1/100|Bird nest (egg)#Green egg~1/100|Bird nest (egg)#Red egg~1/100
+Teak larder		search	Construction:43	Bucket of milk~Always|Cheese~Always|Egg~Always|Garlic~Always|Onion~Always|Pot of flour~Always|Potato~Always|Tea leaves~Always
+Teak shelves 1		search	Construction:56	Beer glass (Player-owned house)~Always|Bowl~Always|Cake tin~Always|Kettle~Always|Pie dish~Always|Porcelain cup (porcelain)~Always|Pot~Always|Teapot (porcelain)~Always
+Teak shelves 2		search	Construction:67	Beer glass (Player-owned house)~Always|Bowl~Always|Cake tin~Always|Chef's hat~Always|Kettle~Always|Pie dish~Always|Porcelain cup (trimmed)~Always|Pot~Always
+Teak tree	o36686,o40758,o9036	chop	Woodcutting:35	Medallion fragment#6~Always|Teak logs~Always|Crystal shard~1/40|Bird nest (ring)~Rare|Bird nest (seeds)~Rare|Clue nest~Rare|Ent seed~1/400|Beaver~Very rare
+Tecu salamander	n12769	catch	Hunter:79	Immature tecu salamander~999/1,000|Salamander claw~1/25|Tecu salamander~1/1,000
+Termites	o55177	from	Agility:50	Termites~Always|Blessed bone shards~4/5
+Tin rocks	o10080,o11360,o11361,o37945	mine		Tin ore~Always|Uncut sapphire~32/32,768|Clue geode (beginner)~1/1,027|Uncut emerald~16/32,768|Uncut ruby~8/32,768|Loop half of key (moon key)~1/4,944|Clue geode (easy)~1/8,737|Clue geode (medium)~1/10,279
+Tiny port coin bag		from		Coins~Always
+Tool store 1		search	Construction:15	Chisel~Always|Hammer~Always|Saw~Always|Shears~Always
+Tool store 2		search	Construction:25	Bucket~Always|Knife~Always|Spade~Always|Tinderbox~Always
+Tool store 3		search	Construction:35	Brown apron~Always|Glassblowing pipe~Always|Needle~Always
+Tool store 4		search	Construction:44	Amulet mould~Always|Bracelet mould~Always|Holy mould~Always|Necklace mould~Always|Ring mould~Always|Tiara mould~Always
+Tool store 5		search	Construction:55	Gardening trowel~Always|Rake~Always|Secateurs~Always|Seed dibber~Always|Spade~Always|Watering can~Always
+Tourist	n13206,n13207,n13208,n13209,n13210,n13211	pickpocket		Coins~Always
+Tree	o1276,o1278,o1279,o52823,o58540	chop		Logs~Always|Beaver~Very rare|Loop half of key (moon key)~1/2,117
+Tree (2024 Christmas event)	o55914,o55915	chop		Logs~Always|Beaver~Very rare
+Tree (Isle of Souls)	o40750,o40752	chop		Logs~Always
+Tree (Pest Control)	o14308,o14309	chop		Logs~Always
+Tree (Prifddinas)	o36677,o36679	chop		Logs~Always
+Tree (Shayzien)	o42393	chop		Logs~Always
+Tree (The Node)	o42832	chop		Logs~Always
+Tree (Tirannwn)	o3879,o3881,o3882,o3883	chop		Logs~Always
+Tree (Tutorial Island 2)	o37965,o37966,o37967,o37968,o37971,o37972,o37973,o37974	chop		Logs (Tutorial Island)~Always
+Tree (Tutorial Island)	o9730,o9731,o9732,o9733	chop		Logs (Tutorial Island)~Always
+Tree (Varlamore)	o51762,o51764,o53188	chop		Logs~Always
+Tree (crystal)	o36672,o36674	chop		Logs~Always
+Tree (snow)	o1330,o1331,o1332	chop		Logs~Always
+Tree (young)	o1277,o1280	chop		Logs~Always
+Tropical wagtail	n5548	catch	Hunter:19	Bones~Always|Raw bird meat~Always|Stripy feather~Always|Tailfeathers~1/20
+Twig		search	Thieving:30	Cell key 1~Always
+TzHaar-Hur		pickpocket	Thieving:90	Tokkul~182/195|Uncut sapphire~5/195|Uncut emerald~4/195|Uncut ruby~3/195|Uncut diamond~1/195|Rocky~1/174,493
+Undead tree	n3240,n4416,n4417	chop	Woodcutting:35	Undead twigs~Always|Bird nest~1/268
+Urium remains		from	Firemaking:95	Gold key crimson~45/127.85|Coins~21/100|Gold key brown~20/127.85|Gold key red~20/127.85|Gold key black~10/127.85|Gold key purple~6/127.85
+Urn (Pyramid Plunder)	o21261,o21262,o21263,o21265,o21266,o21267,o21269,o21270,o21273,o21276,o21277,o21278	search	Thieving:21	
+Urt salt rocks	o33254	mine	Mining:72	Urt salt~Common
+Veg stall	o4706,o4708	steal from	Thieving:2	Potato~3/10|Cabbage~2/10|Onion~2/10|Tomato~2/10|Garlic~1/10|Rocky~1/206,727
+Veg stall (Port Roberts)	o58100	steal from	Thieving:2	Potato~3/10|Cabbage~2/10|Onion~2/10|Tomato~2/10|Garlic~1/10
+Vibrant shoal	o59742	fish at	Fishing:86	Raw bluefin~50/100|Raw marlin~50/100|Purplefin~50/300,000|Swift marlin~50/300,000|Angler's paint~1/16,200
+Villager	n3552,n3553,n3554,n3555,n3556,n3557,n3558,n3559,n3560	pickpocket	Thieving:30	Coins~Always|Rocky~1/256,461
+Volcanic sulphur (rock)	o28496,o28497,o28498	mine	Mining:42	Volcanic sulphur~Always|Clue geode (beginner)~Rare|Clue geode (easy)~Rare|Clue geode (elite)~Rare|Clue geode (hard)~Rare|Clue geode (medium)~Rare|Uncut sapphire~32/32,768|Uncut emerald~16/32,768
+Vyre		pickpocket	Thieving:82	Coins~109/132|Death rune~8/132|Blood pint~6/132|Uncut ruby~5/132|Blood rune~2/132|Cooked mystery meat~1/132|Diamond~1/132|Blood shard~1/5,000
+Wall safe	o7237,o7238	search		Rogue's equipment crate~5/8|Rogue kit~3/8
+Wardrobe (stealing valuables)	o52010	search	Thieving:50	Valuables~Always|Blessed bone statuette (buffalo)~12/6,250|Blessed bone statuette (eagle)~12/6,250|Blessed bone statuette (fox)~12/6,250|Emerald amulet~10/6,250|Gold amulet~10/6,250|Gold necklace~10/6,250|Gold ring~10/6,250
+Warrior		search	Thieving:25	Coins~Always|Rocky~1/256,586
+Watchman		search	Thieving:65	Bread~Always|Coins~Always|Rocky~1/133,000
+Wealthy citizen	n13302,n13303,n13304,n13305	pickpocket	Thieving:50	Coins~79/85|House keys~5/85|Clue scroll (easy)~1/85|Rocky~1/255,961
+White rabbit		catch	Hunter:27	Bones~Always|Rabbit foot~Always|Raw rabbit~Always
+Wild broav	n13517	catch	Hunter:62	Unconscious broav~Always
+Wild kebbit	n1349	catch	Hunter:23	Bones~Always|Kebbit claws~Always|Raw wild kebbit~Always|Kebbity tuft~1/15
+Willow birdhouse	o30559,o30560,o30561	check	Hunter:24	Clockwork~Always|Feather~Always|Raw bird meat~Always|Bird nest (empty)~65/100|Bird nest (ring)~32/100|Bird nest (egg)#Blue egg~1/100|Bird nest (egg)#Green egg~1/100|Bird nest (egg)#Red egg~1/100
+Willow tree	o10819,o10829,o10831,o10833	chop	Woodcutting:30	Willow logs~Always|Willow leaves~1/4|Bird nest (ring)~Rare|Bird nest (seeds)~Rare|Clue nest~Rare|Ent seed~1/400|Beaver~Very rare|Bird nest (egg)~Very rare
+Windswept tree	o18137	chop	Woodcutting:50	Windswept logs~Always
+Wire machine	o22727,o22728,o22730,o22732	search	Thieving:44	Cave goblin wire~Always
+Woman		search		Coins~Always|Rocky~1/257,211
+Woman (East Ardougne)		search		Coins~Always
+Wooden larder		search	Construction:9	Bucket of milk~Always|Tea leaves~Always
+Wooden shelves 1		search	Construction:6	Empty cup (clay)~Always|Kettle~Always|Teapot (clay)~Always
+Wooden shelves 2		search	Construction:12	Beer glass (Player-owned house)~Always|Empty cup (clay)~Always|Kettle~Always|Teapot (clay)~Always
+Wooden shelves 3		search	Construction:23	Beer glass (Player-owned house)~Always|Cake tin~Always|Kettle~Always|Porcelain cup (porcelain)~Always|Teapot (porcelain)~Always
+Wyrmscraig Goat	n16298,n16300,n16301,n16302,n16303	catch	Hunter:60	Goat horn~3/4|Wyrmscraig goat fur~1/4|Wyrmscraig goat hoof~1/48|Mr McGroot~1/40,000
+Xocotla	n13829,n13830,n13847	pickpocket	Thieving:34	Shipping contract~Always
+Yellowfin shoal	o59736	fish at	Fishing:79	Raw yellowfin~Always|Orangefin~1/4,000|Angler's paint~1/18,000
+Yew birdhouse	o31833,o31834,o31835	check	Hunter:59	Clockwork~Always|Feather~Always|Raw bird meat~Always|Bird nest (empty)~65/100|Bird nest (ring)~32/100|Bird nest (egg)#Blue egg~1/100|Bird nest (egg)#Green egg~1/100|Bird nest (egg)#Red egg~1/100
+Yew tree	o10822,o36683,o40756,o42391,o57790	chop	Woodcutting:60	Yew logs~Always|Yew leaves~1/4|Crystal shard~1/40|Bird nest (ring)~Rare|Bird nest (seeds)~Rare|Clue nest~Rare|Ent seed~1/400|Loop half of key (moon key)~1/966
+Yommi tree	o2945,o2946,o2947,o2948,o2949,o2950,o2951,o2952,o2953,o2954,o2955	chop	Woodcutting:50	Logs~4/10|Magic logs~1/10
+Young impling		catch	Hunter:22	Bow string~1/10|Chocolate slice~1/10|Coal~1/10|Lockpick~1/10|Meat pizza~1/10|Pure essence~1/10|Steel axe~1/10|Steel nails~1/10
+Zealot	n3611	pickpocket		Zealot's key~Always
